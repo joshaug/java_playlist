@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=song
+comment0.target=Track(java.lang.String)
+comment1.params=song\ artist
+comment1.target=Track(java.lang.String,\ java.lang.String)
+comment10.params=secs
+comment10.target=void\ setSecs(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=song\ artist\ year\ secs
+comment2.target=Track(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getSong()
+comment4.params=song
+comment4.target=void\ setSong(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getArtist()
+comment6.params=artist
+comment6.target=void\ setArtist(java.lang.String)
+comment7.params=
+comment7.target=int\ getYear()
+comment8.params=year
+comment8.target=void\ setYear(int)
+comment9.params=
+comment9.target=int\ getSecs()
+numComments=12
